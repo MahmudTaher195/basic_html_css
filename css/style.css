@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+
+}
+#section{
+    padding-top: 30px;
+    background-color: beige;
+
+
+}
+.logo{
+   width: 150px;
+   
+    background-color: beige;
+ 
+
+}
+
+.container{
+    padding: 30px;
+    height: 500px;
+    width: 100%;
+    background-color: rgb(148, 191, 229);
+
+}
+.navbar{
+    background-color: blueviolet;
+    display: flex;
+
+}
+ul,li{
+   padding-left: 100px;
+    list-style: none;
+    text-align: center;
+   display: flex;
+
+
+    
+
+    
+  
+
+
+}
+.btn{
+   
+   background-color: blue;
+   text-align: end;
+
+   
+
+    
+
+    
+   
+
+
+}
